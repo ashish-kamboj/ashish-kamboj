@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-kamboj)](https://github.com/ashish-kamboj/github-readme-stats)
+
 <!--
 **ashish-kamboj/ashish-kamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
