@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ashish-kamboj&style=flat-square)
 
 [![Ashish GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-kamboj&theme=default&show_icons=true)](https://github.com/ashish-kamboj/github-readme-stats)
 
