@@ -2,10 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ashish-kamboj&style=flat-square)
 
-[![Ashish GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-kamboj&theme=default&show_icons=true&hide=issues,contribs)](https://github.com/ashish-kamboj/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kamboj&layout=compact)](https://github.com/ashish-kamboj/github-readme-stats)
-
 <a href="https://github.com/ashish-kamboj/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-kamboj&theme=default&show_icons=true&hide=issues,contribs" />
 </a>
