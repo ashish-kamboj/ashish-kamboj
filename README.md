@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kamboj</h1>
-<h3 align="center">A passionate about developing end-to-end ML applications</h3>
+<h3 align="center">A passionate about developing end-to-end Machine Learning applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-kamboj&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-kamboj" /> </p>
 
@@ -29,6 +29,5 @@
 <a href="https://github.com/ashish-kamboj/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kamboj&layout=compact&langs_count=10" />
 </a>
-<a href="https://github.com/ashish-kamboj/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kamboj&" alt="ashish-kamboj" />
-</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kamboj&" alt="ashish-kamboj" /></p>
