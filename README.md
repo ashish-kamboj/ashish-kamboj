@@ -30,4 +30,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kamboj&layout=compact&langs_count=10" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kamboj&" alt="ashish-kamboj" /></p>
+<p class="aligncenter"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kamboj&" alt="ashish-kamboj" /></p>
